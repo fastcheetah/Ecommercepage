@@ -16,4 +16,8 @@ Features
 PHP
 1. Email Verification After Registration
 2. Password Reset via Email
+3. Logged-in users can save items to a wishlist.
+4. User Dashboard (Users can see past orders or few items added to their wishlist )
+5. Admin Dashboard (Admin can see all orders, all users, all items)
+6. Logged in users should be able to see new products or recommendations
 Ill add more features as I work on this project after my exams
