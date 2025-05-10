@@ -21,3 +21,4 @@ PHP
 5. Admin Dashboard (Admin can see all orders, all users, all items)
 6. Logged in users should be able to see new products or recommendations
 Ill add more features as I work on this project after my exams
+Food ecommerce webpage
